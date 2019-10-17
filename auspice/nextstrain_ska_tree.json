@@ -4518,5 +4518,8 @@
             "strain": ""
         }
     ],
-    "name": "Root1"
+    "clade": 0,
+    "clock_length": 0,
+    "muts": [],
+    "strain": ""
 }
