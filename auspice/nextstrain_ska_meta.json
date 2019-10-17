@@ -1,5 +1,10 @@
 {
     "annotations": {},
+    "author_info": {
+        "Phoenix Logan": {
+            "n": 366
+        }
+    },
     "color_options": {
         "county": {
             "color_map": [
@@ -30,7 +35,8 @@
             ],
             "key": "county",
             "legendTitle": "county",
-            "menuItem": "county"
+            "menuItem": "county",
+            "type": "discrete"
         },
         "ska_species": {
             "color_map": [
@@ -77,7 +83,8 @@
             ],
             "key": "ska_species",
             "legendTitle": "ska_species",
-            "menuItem": "ska_species"
+            "menuItem": "ska_species",
+            "type": "discrete"
         },
         "visual_species": {
             "color_map": [
@@ -120,15 +127,12 @@
                 [
                     "inornata",
                     "#3b9072"
-                ],
-                [
-                    NaN,
-                    "#b09977"
                 ]
             ],
             "key": "visual_species",
             "legendTitle": "visual_species",
-            "menuItem": "visual_species"
+            "menuItem": "visual_species",
+            "type": "discrete"
         }
     },
     "defaults": {

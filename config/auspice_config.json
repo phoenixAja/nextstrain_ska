@@ -1,0 +1,38 @@
+{
+    "color_options": {
+        "county": {
+            "key": "county",
+            "legendTitle": "County",
+            "menuItem": "county",
+            "type": "discrete"
+        },
+        "ska_species": {
+            "key": "ska_species",
+            "legendTitle": "Ska Corrected Species",
+            "menuItem": "ska_species",
+            "type": "discrete"
+        },
+        "visual_species": {
+            "key": "visual_species",
+            "legendTitle": "Visual Species",
+            "menuItem": "visual_species",
+            "type": "discrete"
+        }
+    },
+    "defaults": {
+        "colorBy": "ska_species",
+        "geoResolution": "county"
+    },
+    "filters": [
+        "county",
+        "visual_species",
+        "ska_species"
+    ],
+    "geo": [
+        "county"
+    ],
+    "maintainer": [
+        "Phoenix Logan"
+    ],
+    "title": "Ska nextstrain"
+}
