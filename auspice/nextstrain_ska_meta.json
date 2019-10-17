@@ -31,10 +31,6 @@
                 [
                     "Sacramento",
                     "#77bedb"
-                ],
-                [
-                    NaN,
-                    "#7f6e85"
                 ]
             ],
             "key": "county",
@@ -129,10 +125,6 @@
                 [
                     "inornata",
                     "#3b9072"
-                ],
-                [
-                    NaN,
-                    "#b09977"
                 ]
             ],
             "key": "visual_species",
